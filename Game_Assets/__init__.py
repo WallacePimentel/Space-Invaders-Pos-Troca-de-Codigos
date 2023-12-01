@@ -1,0 +1,1 @@
+__all__ = ["background_jogo","fogo","monstro","nave","tiro_monstro"]
